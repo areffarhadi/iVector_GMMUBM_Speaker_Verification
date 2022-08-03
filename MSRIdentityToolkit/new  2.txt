@@ -1,0 +1,44 @@
+***********WARPING*****************8
+32mix, 120dim
+TVS ghadim
+Test finished, EER : 13.357143, MinDCF08 : 5.723095
+Test finished, EER : 12.952381, MinDCF08 : 5.633571
+TVS jadid
+Test finished, EER : 12.738095, MinDCF08 : 5.590714
+Test finished, EER : 12.857143, MinDCF08 : 5.622381
+
+64mix, 120dim
+TVS jadid
+Test finished, EER : 12.023810, MinDCF08 : 6.377619
+Test finished, EER : 11.619048, MinDCF08 : 5.686667
+
+64mix, 150dim
+TVSS jadid
+Test finished, EER : 11.785714, MinDCF08 : 5.852143
+LDA55	EER : 12.952381, MinDCF08 : 4.878571
+
+128mix, 120dim
+TV jadid
+Test finished, EER : 13.214286, MinDCF08 : 7.029762
+Test finished, EER : 11.809524, MinDCF08 : 5.060476
+LDA69	EER : 11.523810, MinDCF08 : 4.746429
+LDA60	EER : 11.333333, MinDCF08 : 4.775000
+LDA62	EER : 10.857143, MinDCF08 : 4.821429
+
+128mix, 150dim
+TVS jadid
+EER : 11.571429, MinDCF08 : 5.268571
+LDA69	EER : 10.952381, MinDCF08 : 4.800714
+LDA55	EER : 10.500000, MinDCF08 : 4.700000
+
+256mix, 150dim
+jadid
+Test finished, EER : 11.238095, MinDCF08 : 4.726190
+LDA69	EER : 12.380952, MinDCF08 : 5.162857
+LDA55	EER : 11.809524, MinDCF08 : 5.266190
+
+***********CMVN*********************
+64mix, 120dim
+TVS jadid
+Test finished, EER : 13.500000, MinDCF08 : 5.683095
+Test finished, EER : 12.761905, MinDCF08 : 5.232381

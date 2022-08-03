@@ -1,0 +1,18 @@
+SOURCEFORMAT = WAVE             # Gives the format of the speech files
+SOURCEKIND = WAVEFORM
+TARGETKIND = MFCC_E_D_A_Z		# Identifier of the coefficients to us
+WINDOWSIZE = 250000.0 			# = 25 ms = length of a time frame
+TARGETRATE = 100000.0 			# = 10 ms = frame periodicity
+NUMCEPS = 12 					# Number of MFCC coeffs (here from c1 to c12)
+USEHAMMING = T 					# Use of Hamming function for windowing frames
+PREEMCOEF = 0.975 				# Pre-emphasis coefficient
+NUMCHANS = 40 					# Number of filterbank channels
+CEPLIFTER = 22 					# Length of cepstral liftering
+DELTAWINDOW = 2                 # Length of Delta Window
+ACCWINDOW= 2                    # Length of DeltaDelta Window
+#NATURALREADORDER = T			# Enable natural read order for HTK binary files
+#NATURALWRITEORDER = T			# Enable natural write order for HTK binary files
+LOFREQ = 100
+HIFREQ = 3500
+#ENORMALISE = T
+#ZMEANSOURCE = T
