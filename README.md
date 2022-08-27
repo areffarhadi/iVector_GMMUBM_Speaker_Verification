@@ -12,15 +12,7 @@ we used MATLAB toolboxes:
 
 dbn.m is our proposed deep belief network that performs the post-processing in the DBNFea.m that is called in postProcessingFeatures.m
 we train this net using the DeeBNet toolbox.
-The proposed system is shown in figure (1). 
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/93467718/182956237-77600943-1755-48b5-b1ef-87e2af077b2c.jpg">
- </p>
- <p align="center">
- Figure (1). DBN structure as the new feature extraction method
-</p>
 
 
 gmmUbmSpeakerVerification.m is prepared to use GMMUBM for speaker verification.
