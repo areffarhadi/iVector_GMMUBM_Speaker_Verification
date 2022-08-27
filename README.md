@@ -2,6 +2,10 @@
 MATLAB implementation of DBN-based Speaker Verification using iVector and GMMUBM on the NIST04 and NIST08 dataset
 in this code, we use Deep Belief Network as post-processing in the speech feature extraction stage to generate more efficient features using MFCC as DBN input.
 
+
+**** **Trained GMM-UBM and iVector models will be shared after acceptance of the paper** ****
+
+
 we used MATLAB toolboxes:
   * DeeBNet
   * MSRIdentityToolkit
